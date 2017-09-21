@@ -1,0 +1,8 @@
+{
+    "name": "Marvel_API",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "Devil",
+    "contributors": [],
+    "dependencies": {}
+}
